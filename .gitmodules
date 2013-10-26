@@ -1,3 +1,3 @@
-[submodule "vagrant"]
-	path = vagrant
+[submodule "recipes/cookbooks/chef-server"]
+	path = recipes/cookbooks/chef-server
 	url = https://github.com/opscode-cookbooks/chef-server.git
